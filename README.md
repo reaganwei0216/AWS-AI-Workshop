@@ -15,3 +15,6 @@ In this series, we will introduce how to get started with Amazon AI Services suc
 
 2. __Using Lex Build Sumerian Chatbot__
     - [Using Lex Build Sumerian Chatbot](02-Using-Amplify-depoly-Sumerian/201-Using-Lex-Build-Sumerian-Chatbot.md)
+
+3. __AI Services Introduces__ 
+    - [Getting Started with Amazon Polly, Transcribe, Translate and Comprehend](03-AI-Services-Introduce/Getting-Started-with-Amazon-Polly-Transcribe-Translate-Comprehend.md)
